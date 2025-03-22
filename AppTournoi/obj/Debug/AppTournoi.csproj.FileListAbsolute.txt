@@ -1,0 +1,112 @@
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.csproj.AssemblyReference.cache
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\MainWindow.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\configBDD.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\App.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi_MarkupCompile.cache
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi_MarkupCompile.lref
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\AppTournoi.exe.config
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\AppTournoi.exe
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\AppTournoi.pdb
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\MainWindow.baml
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\configBDD.baml
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.g.resources
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.Properties.Resources.resources
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.csproj.GenerateResource.cache
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.csproj.CoreCompileInputs.cache
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.exe
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.pdb
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\DllTournois.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\Devart.Data.Linq.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\Devart.Data.MySql.Linq.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\Devart.Data.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\Devart.Data.MySql.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\DllTournois.pdb
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.csproj.CopyComplete
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\ListParticipant.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\ListParticipant.baml
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\ConnexionGestion.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\ConnexionGestion.baml
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionTournoi.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionTournoi.baml
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionSport.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionParticipant.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionSport.baml
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionParticipant.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\AppTournoi.exe.config
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\AppTournoi.exe
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\AppTournoi.pdb
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\DllTournois.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\Devart.Data.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\bin\Debug\DllTournois.pdb
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.csproj.AssemblyReference.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\MainWindow.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\configBDD.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\ListParticipant.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\ConnexionGestion.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionTournoi.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionSport.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionParticipant.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AjoutParticipant.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\App.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi_MarkupCompile.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi_MarkupCompile.lref
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\MainWindow.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\configBDD.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\ListParticipant.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\ConnexionGestion.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionTournoi.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionSport.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionParticipant.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AjoutParticipant.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.g.resources
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.Properties.Resources.resources
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.csproj.GenerateResource.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.csproj.CoreCompileInputs.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.csproj.Up2Date
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.exe
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AppTournoi.pdb
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AjoutParticipant.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\AjoutParticipant.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionGestionnaire.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionGestionnaire.baml
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionGestionnaire.g.cs
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\AppTournoi\obj\Debug\GestionGestionnaire.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\bin\Debug\AppTournoi.exe.config
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\bin\Debug\AppTournoi.exe
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\bin\Debug\AppTournoi.pdb
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\bin\Debug\DllTournois.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\bin\Debug\Devart.Data.MySql.Linq.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\bin\Debug\Devart.Data.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\bin\Debug\Devart.Data.MySql.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\bin\Debug\DllTournois.pdb
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi.csproj.AssemblyReference.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\MainWindow.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\configBDD.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\ListParticipant.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\ConnexionGestion.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\GestionTournoi.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\GestionSport.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\GestionParticipant.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AjoutParticipant.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\GestionGestionnaire.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\App.g.cs
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi_MarkupCompile.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi_MarkupCompile.lref
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\MainWindow.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\configBDD.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\ListParticipant.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\ConnexionGestion.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\GestionTournoi.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\GestionSport.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\GestionParticipant.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AjoutParticipant.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\GestionGestionnaire.baml
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi.g.resources
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi.Properties.Resources.resources
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi.csproj.GenerateResource.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi.csproj.CoreCompileInputs.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi.csproj.Up2Date
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi.exe
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\AppTournoi\obj\Debug\AppTournoi.pdb

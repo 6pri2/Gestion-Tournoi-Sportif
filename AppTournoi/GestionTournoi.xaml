@@ -1,0 +1,67 @@
+﻿<Window x:Class="AppTournoi.GestionTournoi"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppTournoi"
+        mc:Ignorable="d"
+        Title="Gestion des Tournois (Gestionnaire)" Height="450" Width="800"
+         MinHeight="450" MinWidth="800">
+    <Grid Background="#d7ecee">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="121*"/>
+            <ColumnDefinition Width="39*"/>
+            <ColumnDefinition Width="39*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="140*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="70*"/>
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+
+        <ListView x:Name="lvTournoiGestion" Margin="15,15,15,15" Grid.RowSpan="7">
+            <ListView.ContextMenu>
+                <ContextMenu Name="ContextMenuListTournoi">
+                    <MenuItem Name="MenuContextSupprimerTournoi" Header="Supprimer un Tournoi" Click="MenuContextSupprimerTournoi_Click"/>
+                    <MenuItem Name="MenuContextModifierTournoi" Header="Modifier un Tournoi" Click="MenuContextModifierTournoi_Click"/>
+                </ContextMenu>
+            </ListView.ContextMenu>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <Run Text="{Binding Intitule }" Foreground="black"/>
+                        <Run Text=" - " Foreground="black"/>
+                        <Run Text="{Binding DateTournoi, StringFormat=d }" Foreground="black"/>
+                    </TextBlock>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Label Content="Intitule : " FontWeight="Bold" VerticalAlignment="center" HorizontalAlignment="center" Grid.Row="1" Grid.Column="1"/>
+        <TextBox x:Name="tbIntitule" Background="#bdcdca"  Margin="10,10,10,10" Grid.Row="1" Grid.Column="2" TextChanged="ChampModifier"/>
+
+        <Label Content="Date : " FontWeight="Bold" VerticalAlignment="center" HorizontalAlignment="center" Grid.Row="2" Grid.Column="1"/>
+        <DatePicker Name="dpDate" Margin="10,10,10,10" Grid.Column="2" Grid.Row="2" SelectedDateChanged="ChampModifier" />
+
+
+
+            <Label Content="Selectionner le Sport : " FontWeight="Bold" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="1" />
+        <ListView x:Name="lvSport" Margin="10,10,10,10" Background="#bdcdca" Grid.Row="3" Grid.Column="2" SelectionChanged="ChampModifier">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <Run Text="{Binding Intitule }" Foreground="black"/>
+                    </TextBlock>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button x:Name="ButtonAjouter" Content="Ajouter" HorizontalAlignment="Center" VerticalAlignment="Center" Width="149" Height="43" Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Click="Ajouter_Click" IsEnabled="False"/>
+        <Button Content="Quitter" HorizontalAlignment="Center" VerticalAlignment="Center" Width="149" Height="43" Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" Click="Quitter_Click"/>
+
+    </Grid>
+</Window>

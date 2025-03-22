@@ -1,0 +1,31 @@
+﻿<Window x:Class="AppTournoi.ConnexionGestion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppTournoi"
+        mc:Ignorable="d"
+        Title="Connection en mode Gestionnaire" Height="450" Width="800"
+         MinHeight="450" MinWidth="800" ResizeMode="NoResize">
+    <Grid Background="#bed7df" Margin="0,-10,0,10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="185*"/>
+            <RowDefinition Height="128*"/>
+            <RowDefinition Height="121*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="351*"/>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="105*"/>
+            <ColumnDefinition Width="277*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Login du Gestionnaire" HorizontalAlignment="Left" Margin="46,105,0,0" VerticalAlignment="Top" FontWeight="Bold" Foreground="White" Height="48" Width="280" FontSize="25"/>
+        <TextBox x:Name="tbLoginGestionnaire" HorizontalAlignment="Left" Margin="10,104,0,0" TextWrapping="Wrap"   VerticalAlignment="Top" Width="148" Height="49" Grid.Column="1" Grid.ColumnSpan="2" />
+
+        <Label Content="Mot de passe" HorizontalAlignment="Left" Margin="46,0,0,0" VerticalAlignment="Center" FontWeight="Bold" Foreground="White" Height="49" Width="227" FontSize="25" Grid.Row="1"/>
+        <PasswordBox x:Name="tbGestMDP" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Center" Width="148" Height="49" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1" />
+
+        <Button Content="Connexion" HorizontalAlignment="Left" Margin="251,0,0,61" Width="149" Height="43"  Click="Enregistrer_Click" VerticalAlignment="Bottom" Grid.ColumnSpan="2" Grid.Row="2" />
+        <Button Content="Annuler" HorizontalAlignment="Left" Margin="20,0,0,61" Width="149" Height="43" Click="Annuler_Click" VerticalAlignment="Bottom" Grid.Column="2" Grid.ColumnSpan="2" Grid.Row="2"/>
+    </Grid>
+</Window>

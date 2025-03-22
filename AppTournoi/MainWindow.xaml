@@ -1,0 +1,109 @@
+﻿<Window x:Class="AppTournoi.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AppTournoi"
+        mc:Ignorable="d"
+        Title="Gestion de Tournois" Height="450" Width="850" 
+        MinHeight="450" MinWidth="850">
+    <Grid Background="#d7ecee" Margin="0,0,-33,0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="183*"/>
+            <ColumnDefinition Width="172*"/>
+            <ColumnDefinition Width="178*"/>
+            <ColumnDefinition Width="101*"/>
+            <ColumnDefinition Width="199*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="24*"/>
+            <RowDefinition Height="48*"/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="120*"/>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="66*"/>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="53*"/>
+            <RowDefinition Height="27*"/>
+        </Grid.RowDefinitions>
+        <Menu VerticalAlignment="Top" Background="LightGray"  Height="20" Grid.ColumnSpan="5">
+            <MenuItem Header="Connexion BDD" FontWeight="Bold" Click="ConnexionBdd_Click"/>
+            <MenuItem x:Name="miListParticipant" Header="Liste de tous les participants" FontWeight="Bold" Click="ListParticipant_Click" IsEnabled="False"/>
+            <MenuItem x:Name="miGestTournois" Header="Gestion : Tournois" FontWeight="Bold" Click="GestTournois_Click" IsEnabled="False"/>
+            <MenuItem x:Name="miGestSport" Header="Gestion : Sport" FontWeight="Bold" Click="GestSport_Click" IsEnabled="False"/>
+            <MenuItem x:Name="miGestPart" Header="Gestion : Participant " FontWeight="Bold" Click="GestParticipant_Click" IsEnabled="False"/>
+            <MenuItem x:Name="miCoGestionnaire" Header="Gestionnaire" FontWeight="Bold" Click="Gestionnaire_Click" IsEnabled="False"/>
+            <MenuItem Header="Paramètres BDD" FontWeight="Bold" Click="ParametreBdd_Click"/>
+        </Menu>
+
+        <Frame Name="MainFrame" NavigationUIVisibility="Hidden" Grid.RowSpan="9" Grid.ColumnSpan="5" />
+
+        <Label Content="Sports" Foreground="Blue" FontWeight="Bold" Margin="0,9,0,0" RenderTransformOrigin="0.521,0.565" Grid.Row="1"  HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+        <ListView 
+            x:Name="lvSports" Margin="23,3,10,2" Background="#bdcdca" Grid.Row="2" Grid.RowSpan="6" SelectionChanged="lvSports_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+
+                    <TextBlock>
+                        <Run Text="{Binding Intitule }" Foreground="black"/>
+                    </TextBlock>
+
+
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Label Content="Tournois" Foreground="Blue"  FontWeight="Bold" RenderTransformOrigin="0.521,0.565" Grid.Row="1" Grid.Column="1"  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,11,0,0" />
+
+        <ListView 
+            x:Name="lvTournois" Margin="7,3,15,2" Background="#bdcdca" Grid.Row="2" Grid.RowSpan="6" Grid.Column="1" SelectionChanged="lvTournois_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <Run Text="{Binding Intitule }" Foreground="black"/>
+                        <Run Text="  " Foreground="black"/>
+                        <Run Text="{Binding DateTournoi, StringFormat=d  }" Foreground="black"/>
+                    </TextBlock>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Label Content="Participants" Foreground="Blue"  FontWeight="Bold" Margin="0,9,0,0"  HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Row="1" Grid.Column="2"/>
+
+        <ListView 
+            x:Name="lvParticipants" Margin="9,3,19,2" Background="#bdcdca" Grid.Row="2" Grid.RowSpan="6" Grid.Column="2" SelectionChanged="lvParticipants_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <Run Text="{Binding Nom }" Foreground="black"/>
+                        <Run Text="  " Foreground="black"/>
+                        <Run Text="{Binding Prenom }" Foreground="black"/>
+                    </TextBlock>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Label Content="Nom :" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Grid.Column="3"/>
+        <TextBox x:Name="tbNom" Margin="50,11,49,7" Background="#bdcdca" Grid.Row="1" Grid.Column="4"/>
+
+        <Label Content="Prénom :" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.505,1.042" Grid.Row="2" Grid.Column="3" />
+        <TextBox x:Name="tbPrenom" Margin="50,8,49,7" Background="#bdcdca" Grid.Row="2" Grid.Column="4"/>
+
+        <Image x:Name="imgDynamic" Margin="92,22,69,8" Grid.Row="3" Grid.Column="3" Grid.ColumnSpan="2">
+            <Image.Source>
+                <BitmapImage UriSource=".\sport6.jpg"/>
+            </Image.Source>
+        </Image>
+
+        <Label Content="Sport :" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.505,1.042" Grid.Row="5" Grid.Column="3" />
+        <TextBox x:Name="tbSport" Margin="50,20,49,16" Background="#bdcdca" Grid.Row="5" Grid.Column="4" />
+
+        <Label Content="Tournoi :" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.505,1.042" Grid.Row="6" Grid.Column="3" />
+        <TextBox x:Name="tbTournoi" Margin="50,10,49,5" Background="#bdcdca" Grid.Row="6" Grid.Column="4"/>
+
+        <Label Content="Date Tournoi :" FontWeight="Bold" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.505,1.042" Grid.Row="7" Grid.Column="3" />
+        <TextBox x:Name="tbDateTournoi" Margin="50,10,49,13" Background="#bdcdca" Grid.Row="7" Grid.Column="4"/>
+
+    </Grid>
+</Window>

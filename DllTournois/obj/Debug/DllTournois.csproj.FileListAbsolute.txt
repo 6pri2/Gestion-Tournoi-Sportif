@@ -1,0 +1,25 @@
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTournois.csproj.AssemblyReference.cache
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTournois.csproj.CoreCompileInputs.cache
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\bin\Debug\DllTournois.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\bin\Debug\DllTournois.pdb
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\bin\Debug\Devart.Data.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\bin\Debug\Devart.Data.Linq.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\bin\Debug\Devart.Data.MySql.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\bin\Debug\Devart.Data.MySql.Linq.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTournois.csproj.CopyComplete
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTournois.dll
+Z:\R4.01\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTournois.pdb
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\bin\Debug\DllTournois.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\bin\Debug\DllTournois.pdb
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTournois.csproj.AssemblyReference.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTournois.csproj.CoreCompileInputs.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTourn.4CFA5AB7.Up2Date
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTournois.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\R4.01_TP_noté_2025\SolutionTournoi\DllTournois\obj\Debug\DllTournois.pdb
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\DllTournois\bin\Debug\DllTournois.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\DllTournois\bin\Debug\DllTournois.pdb
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\DllTournois\obj\Debug\DllTournois.csproj.AssemblyReference.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\DllTournois\obj\Debug\DllTournois.csproj.CoreCompileInputs.cache
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\DllTournois\obj\Debug\DllTourn.4CFA5AB7.Up2Date
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\DllTournois\obj\Debug\DllTournois.dll
+C:\Users\Cyprien\Nextcloud\but_info\R4.01 Architecture Logicielle\Gestion_Tournoi_Sportif\DllTournois\obj\Debug\DllTournois.pdb
